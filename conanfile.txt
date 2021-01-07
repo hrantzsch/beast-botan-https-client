@@ -1,0 +1,9 @@
+[requires]
+boost/1.74.0
+botan/2.17.2
+
+[generators]
+compiler_args
+
+[options]
+botan:with_boost=True
