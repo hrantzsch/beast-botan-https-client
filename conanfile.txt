@@ -1,6 +1,6 @@
 [requires]
 boost/1.74.0
-botan/2.17.2
+botan/2.17.3
 
 [generators]
 compiler_args
